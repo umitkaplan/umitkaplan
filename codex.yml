@@ -1,0 +1,3 @@
+project: umitkaplan
+language: python
+entrypoint: main.py
